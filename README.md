@@ -2,4 +2,5 @@
 
 - Using PID control 
 - Finding the odometry by rotational matrix and geometry
+- Simple path planning algorithm 
 
